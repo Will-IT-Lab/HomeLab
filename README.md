@@ -112,6 +112,8 @@ its gonna prompt you to log in do as so and bam your in!
 
 <img width="1024" height="839" alt="Screenshot from 2026-03-03 15-51-51" src="https://github.com/user-attachments/assets/b2e3bc04-b488-47ad-a049-44b17a6a5496" />
 
+from here you can sign in on the Wins Pro into a user you created in the Domain like John Doe you can sign in as him and from the Server in AD you have access to his account by Resetiing his password if needed, if he gets locked out, change his password. 
+
 
 
 
