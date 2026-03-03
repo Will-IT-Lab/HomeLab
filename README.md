@@ -1,3 +1,4 @@
+
 # HomeLab
 making a step by step on how i made my lab enjoy!
 
@@ -9,6 +10,9 @@ Link for Box:https://www.virtualbox.org/wiki/Downloads
 
 Step 2 Once everthing is downloaded, open virual box and this is where all the magic happens. 
 go to where it says "New" and add the ISO file into the ISO image section and where is says type add windows 10 pro this will be the client the one that will be a user in the helpdesk situation.
+
+<img width="790" height="423" alt="cli_iso" src="https://github.com/user-attachments/assets/86dc4c97-52e3-43aa-989b-e9eada23b769" />
+
 
 Step 3 now do the same for the server in terms of versions to pick for the server pick the standard desktop expericance 
 
