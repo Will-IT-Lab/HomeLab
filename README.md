@@ -16,10 +16,25 @@ go to where it says "New" and add the ISO file into the ISO image section and wh
 
 Step 3 now do the same for the server in terms of versions to pick for the server pick the standard desktop expericance 
 
-now open an application called server manager go to "manage" and add roles and add the roles you see in the 
+<img width="790" height="423" alt="serveriso" src="https://github.com/user-attachments/assets/bd8d4f53-f1c6-483e-946b-d0d1a5bf1f2e" />
+
+
+now open an application called server manager go to "manage"
+<img width="1280" height="1440" alt="AD" src="https://github.com/user-attachments/assets/c7be24d3-2d7f-4d08-9e6e-562ec20e2578" />
+
+ add roles and add the roles you see in the 
 screenshot 
 
+<img width="1280" height="1440" alt="Server_roles" src="https://github.com/user-attachments/assets/c6024ff5-1eb8-4c4e-a3da-c8f97b9f5f77" />
+
+
 Dowload them and wait 
+
+while waiting in order for the vms to be on the same network you must change this setting, 
+
+<img width="742" height="496" alt="Screenshot from 2026-03-03 17-23-57" src="https://github.com/user-attachments/assets/fe2fe4a6-ec79-4505-b231-2e05210c228e" />
+
+
 
 now once it has downloaded 
 
